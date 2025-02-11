@@ -18,3 +18,11 @@ You will learn how to use details like metadata, shadows, road signs, license pl
 
 ## Introduction
 some intro
+
+## Metadata
+  **On Windows**
+  1. Right click the image, go to properties and then details
+  2. Use ExifTool by Phil Harvey
+
+  **On Linux**
+  1. Run ```mat2 image.jpg```
