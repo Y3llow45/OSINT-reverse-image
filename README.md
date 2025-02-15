@@ -55,7 +55,10 @@ First, check the image’s metadata for the location. If that doesn’t work, op
 
 ## Visual Clues
   ### How to say "street" in every language <a href="https://www.indifferentlanguages.com/words/street">LINK</a> (usefull when you can see street signs)
-  ### Asian languages: <br> ![asian-languages](https://github.com/user-attachments/assets/363e8b5a-1879-4236-a41d-6ec33caaf22a)
+  ### Languages:
+  ![asian-languages](https://github.com/user-attachments/assets/363e8b5a-1879-4236-a41d-6ec33caaf22a) <br>
+  ![Screenshot 2025-02-15 at 14-05-05 tell languages apart - Google Search](https://github.com/user-attachments/assets/e33a7fbc-8849-4ad7-b806-894baa6825ff) <br>
+  <a href="https://www.vox.com/2014/11/17/7082317/language-maps-charts">More HERE</a>
   ### USA highway signs: <br> ![roadsign-usa-01](https://github.com/user-attachments/assets/a7433440-0438-4700-921a-3e9bd1b53f5f)
   ### Speed limit signs: <br>
   USA and Canada<br>
