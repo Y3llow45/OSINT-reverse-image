@@ -101,3 +101,5 @@ First, check the image’s metadata for the location. If that doesn’t work, op
   Portugal is the only European country with bright yellow on the right. <br>
   USA vehicle license plate requirements: <a href="https://en.wikipedia.org/wiki/Vehicle_license_plates_of_the_United_States">HERE</a> <br>
   <a href="http://www.worldlicenseplates.com/">MORE HERE</a>
+  ### Left or right hand traffic:
+  List <a href="https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic">HERE</a>
