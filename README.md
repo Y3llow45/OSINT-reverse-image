@@ -54,10 +54,10 @@ First, check the image’s metadata for the location. If that doesn’t work, op
   2. <a href="https://geospy.ai/">geospy</a>
 
 ## Visual Clues
-  * How to say "street" in every language <a href="https://www.indifferentlanguages.com/words/street">LINK</a> (usefull when you can see street signs)
-  * Asian languages: <br> ![asian-languages](https://github.com/user-attachments/assets/363e8b5a-1879-4236-a41d-6ec33caaf22a)
-  * USA highway signs: <br> ![roadsign-usa-01](https://github.com/user-attachments/assets/a7433440-0438-4700-921a-3e9bd1b53f5f)
-  * Speed limit signs: <br>
+  ### How to say "street" in every language <a href="https://www.indifferentlanguages.com/words/street">LINK</a> (usefull when you can see street signs)
+  ### Asian languages: <br> ![asian-languages](https://github.com/user-attachments/assets/363e8b5a-1879-4236-a41d-6ec33caaf22a)
+  ### USA highway signs: <br> ![roadsign-usa-01](https://github.com/user-attachments/assets/a7433440-0438-4700-921a-3e9bd1b53f5f)
+  ### Speed limit signs: <br>
   USA and Canada<br>
   ![roadsign-speed-usa-01](https://github.com/user-attachments/assets/80e3be8d-e1d8-4708-ad30-d513acaa6161)
   ![roadsign-speed-canada-01](https://github.com/user-attachments/assets/264577f0-6e04-46bc-8a06-a49eeba04515) <br>
@@ -88,4 +88,16 @@ First, check the image’s metadata for the location. If that doesn’t work, op
   France and Sweden: <br>
   ![France_road_sign_B30_(30) svg](https://github.com/user-attachments/assets/5092d89c-426e-40c1-999e-0081b9124e5e)
   ![Sweden_road_sign_C31-5 svg](https://github.com/user-attachments/assets/e400444d-e145-4202-8155-3cc7a886609c)
-
+  ### Other road signs: <br>
+  Kilometer signs in Slovenia: <br>
+  ![roadsign-slovenia](https://github.com/user-attachments/assets/4ed84651-953a-4585-ab92-99bad1d58fa2) <br>
+  Kilometer signs in Denmark: <br>
+  ![roadsign-denmark](https://github.com/user-attachments/assets/d3c1decf-15bb-45cf-9987-4d769528467e) <br>
+  Others <a href="https://en.wikipedia.org/wiki/Traffic_signs_by_country">HERE</a>
+  ### Road lines:
+  <a href="https://commons.wikimedia.org/wiki/Category:Road_markings_by_country">HERE</a>
+  ### License plates:
+  European cars have blue rectangle on the left.
+  Portugal is the only European country with bright yellow on the right.
+  USA vehicle license plate requirements: <a href="https://en.wikipedia.org/wiki/Vehicle_license_plates_of_the_United_States">HERE</a>
+  <a href="http://www.worldlicenseplates.com/">MORE HERE</a>
