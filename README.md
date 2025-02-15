@@ -18,10 +18,7 @@ You will learn how to use details like metadata, shadows, road signs, license pl
 - [Practice](#practice)
 
 ## Introduction
-First thing you should try is finding the location from the image's metadata. If that didn't work open the image in **photoshop** and try to see if you can restore the image to it's original
-state ( The image could be croppped and you might be able to restore it's full size). **AI image upscale** websites are very usefull when you have to do image search using google or yandex.
-You can try to find people from the image by screenshoting their face and uploading it to **pimeyes.com** or similar. Finding the location from road signs and buildings is hard but not imposible.
-Finnaly you can try to gather more info by using online tools. Practicing on openguessr.com and geoguessr.com would help you a lot.
+First, check the image’s metadata for the location. If that doesn’t work, open it in Photoshop and see if you can restore the original size (it might just be cropped non-destructively). AI upscalers help when using Google or Yandex image search. To find people, screenshot their face and upload it to PimEyes or similar sites. Identifying locations from road signs and buildings is hard but possible. Finally, use online tools to gather more info. Practicing on openguessr.com and geoguessr.com can help you a lot.
 
 ## Metadata
   **On Windows**
@@ -55,3 +52,15 @@ Finnaly you can try to gather more info by using online tools. Practicing on ope
   **Location**
   1. <a href="https://picarta.ai/">picarta</a>
   2. <a href="https://geospy.ai/">geospy</a>
+
+## Visual Clues
+  * How to say "street" in every language <a href="https://www.indifferentlanguages.com/words/street">LINK</a> (usefull when you can see street signs)
+  * Asian languages: <br> ![asian-languages](https://github.com/user-attachments/assets/363e8b5a-1879-4236-a41d-6ec33caaf22a)
+  * USA highway signs: <br> ![roadsign-usa-01](https://github.com/user-attachments/assets/a7433440-0438-4700-921a-3e9bd1b53f5f)
+  * Speed limit signs: <br>
+  USA and Canada<br>
+  ![roadsign-speed-usa-01](https://github.com/user-attachments/assets/80e3be8d-e1d8-4708-ad30-d513acaa6161)
+  ![roadsign-speed-canada-01](https://github.com/user-attachments/assets/264577f0-6e04-46bc-8a06-a49eeba04515) <br>
+  China: <br>
+  ![Expwy_Spdlmt_CHN](https://github.com/user-attachments/assets/b900fe8a-36d2-498b-882b-4c4fe2ac9005) <br>
+
