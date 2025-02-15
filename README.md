@@ -10,6 +10,7 @@ You will learn how to use details like metadata, shadows, road signs, license pl
 ## Table of Contents
 - [Introduction](#introduction)
 - [Metadata](#metadata)
+- [Uncrop](#uncrop)
 - [AI](#ai)
 - [Visual Clues](#visual-clues)
 - [Useful Tools](#useful-tools--resources)
@@ -17,9 +18,9 @@ You will learn how to use details like metadata, shadows, road signs, license pl
 - [Practice](#practice)
 
 ## Introduction
-First thing you should try is finding the location from the image's metadata. If that didn't work open the image in photoshop and try to see if you can restore the image to it's original
-state ( The image could be croppped and you might be able to restore it's full size). AI image upscale websites are very usefull when you have to do image search using google or yandex.
-You can try to find people from the image by screenshoting their face and uploading it to pimeye.com or similar. Finding the location from road signs and buildings is hard but not imposible.
+First thing you should try is finding the location from the image's metadata. If that didn't work open the image in **photoshop** and try to see if you can restore the image to it's original
+state ( The image could be croppped and you might be able to restore it's full size). **AI image upscale** websites are very usefull when you have to do image search using google or yandex.
+You can try to find people from the image by screenshoting their face and uploading it to **pimeyes.com** or similar. Finding the location from road signs and buildings is hard but not imposible.
 Finnaly you can try to gather more info by using online tools. Practicing on openguessr.com and geoguessr.com would help you a lot.
 
 ## Metadata
@@ -37,3 +38,20 @@ Finnaly you can try to gather more info by using online tools. Practicing on ope
   **Websites**
   1. jimpl.com - all photos are deleted after 24 hours
   2. exifdata.com - works just fine
+
+## Uncrop
+  Iphones and some androids crop images **non-destructively**. This means that the file still holds the original image and you can recover it.
+  1. Open photoshop
+  2. Select the crop tool
+  3. Click and drag the crop handles outward
+  4. Press enter
+
+## AI
+  **Upscale**
+  1. <a href="https://www.iloveimg.com/upscale-image">iloveimg</a> <br>
+  2. <a href="https://imgupscaler.com/">imgupscaler</a> <br>
+  3. <a href="https://www.upscale.media/">upscale.media</a>
+  
+  **Location**
+  1. <a href="https://picarta.ai/">picarta</a>
+  2. <a href="https://geospy.ai/">geospy</a>
