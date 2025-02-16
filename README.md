@@ -13,7 +13,6 @@ You will learn how to use details like metadata, shadows, road signs, license pl
 - [Uncrop](#uncrop)
 - [AI](#ai)
 - [Visual Clues](#visual-clues)
-- [Useful Tools](#useful-tools--resources)
 - [Other Resources](#other-resources)
 - [Practice](#practice)
 
@@ -106,3 +105,15 @@ First, check the image’s metadata for the location. If that doesn’t work, op
   <a href="http://www.worldlicenseplates.com/">MORE HERE</a>
   ### Left or right hand traffic:
   List <a href="https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic">HERE</a>
+## Other resources
+  <a href="https://github.com/The-Osint-Toolbox/Image-Research-OSINT">OSINT</a>
+## Practice
+  ## GeoGuessr
+  Paid, big community, need good PC
+  <a href="https://www.geoguessr.com/">LINK</a>
+  ## Openguessr
+  Free, lightweight
+  <a href="https://openguessr.com/">LINK</a>
+  ## WorldGuessr
+  Free, a bit glitchy
+  <a href="https://www.worldguessr.com/">LINK</a>
