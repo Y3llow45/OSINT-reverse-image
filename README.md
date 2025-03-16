@@ -149,6 +149,10 @@ When metadata fails, visual elements can pinpoint locations.
   - Global: [World License Plates](http://www.worldlicenseplates.com/).
 - **New Clue**: Plate fonts and sizes differ—e.g., Germany uses a distinct DIN Next Pro font.
 
+### Harbors
+- **Most Important**: [Harbors](https://en.wikipedia.org/wiki/Harbor#Important_harbors).
+- On most harbors the edge line is painted yellow and the box is gray. There is only one box in europe that is painted yellow and it is in Reykjavik, Iceland.
+
 ### Additional Visual Indicators
 - **Driving Side**: [Left- vs Right-Hand Traffic](https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic).
 - **Vegetation**: Palm trees suggest tropics; birch trees point to northern climates.
